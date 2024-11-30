@@ -47,3 +47,6 @@
   /* background-color: violet; */
   justify-content: space-evenly;
 }
+.hide {
+  display: none;
+}
